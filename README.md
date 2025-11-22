@@ -37,41 +37,6 @@ Email replies take time. Many users struggle with:
 **Smart Email Assistant** solves this by generating polished replies using AI, saving time and improving communication quality.
 
 ---
-
-# 🧩 Features
-
-### ✔ AI-Generated Email Replies
-
-### ✔ Tone-based responses
-
-### ✔ React UI for manual generation
-
-### ✔ Chrome Extension inside Gmail
-
-### ✔ Spring Boot backend using Gemini API
-
-### ✔ Auto-paste reply inside Gmail compose box
-
-### ✔ Copy-to-clipboard button
-
-### ✔ Error handling + loading UI
-
-### ✔ Secure API key management
-
----
-
-# 📁 Project Architecture
-
-```
-Smart Email Assistant
-│
-├── frontend (React + Material UI)
-├── backend (Spring Boot + Gemini API)
-└── chrome-extension (Gmail Integration)
-```
-
----
-
 # 🧠 How It Works
 
 ## 1️⃣ Frontend (React)
@@ -187,17 +152,3 @@ Suitable for:
 
 ---
 
-# 🛠 Installation & Setup (Optional)
-
-If you want, I can add:
-✔ Full installation steps
-✔ Commands
-✔ Folder structure
-✔ Screenshots
-✔ Demo GIF
-
-Just tell me!
-
----
-
-If you want **a shorter resume-friendly version**, **logo**, or **badges section**, I can prepare that too.
